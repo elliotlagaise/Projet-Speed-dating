@@ -1,2 +1,2 @@
 # Projet-Speed-dating
-Le but du projet et de voir les préférences et des comportements lors des événements de speed dating.
+L'objectif du projet est d'analyser les préférences et les comportements observés lors des événements de speed dating.
